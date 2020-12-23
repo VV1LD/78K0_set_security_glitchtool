@@ -1,5 +1,5 @@
 /*****************************************************************************************
-*  Quick and dirty 78k0r security set cmd glitcher, used to unlock a chip for 
+*  Quick and dirty 78k0 security set cmd glitcher, used to unlock a chip for 
 *  erase/program cmds
 *  
 *  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! DISCLAIMER !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
